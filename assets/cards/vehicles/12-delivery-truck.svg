@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Delivery Truck">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <rect x="34" y="34" width="172" height="172" rx="86" fill="#4dabf7" opacity="0.18"/><circle cx="60" cy="60" r="12" fill="#748ffc" opacity="0.75"/><circle cx="182" cy="68" r="10" fill="#748ffc" opacity="0.75"/><circle cx="62" cy="178" r="9" fill="#748ffc" opacity="0.75"/><circle cx="178" cy="180" r="13" fill="#748ffc" opacity="0.75"/>
+  <text x="120" y="176" text-anchor="middle" font-size="174" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🚚</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Water Lily">
+    
+    <defs>
+      <radialGradient id="petal-f58" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#e0f2fe"/>
+        <stop offset="70%" stop-color="#60a5fa"/>
+        <stop offset="100%" stop-color="#2563eb"/>
+      </radialGradient>
+      <radialGradient id="center-f58" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f58" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<circle cx="120" cy="188" r="50" fill="#7bc96f" stroke="none" stroke-width="0" opacity="1"/>
+<path d="M120 188 L168 188 Q152 202 142 206 Z" fill="#ffffff" stroke="none" stroke-width="0" stroke-linecap="round" opacity="0.85"/>
+<ellipse cx="120" cy="126" rx="16" ry="42" fill="url(#petal-f58)" stroke="#2563eb" stroke-width="1.5" transform="rotate(-60 120 126)" opacity="1"/>
+<ellipse cx="120" cy="126" rx="16" ry="42" fill="url(#petal-f58)" stroke="#2563eb" stroke-width="1.5" transform="rotate(-30 120 126)" opacity="1"/>
+<ellipse cx="120" cy="126" rx="16" ry="42" fill="url(#petal-f58)" stroke="#2563eb" stroke-width="1.5" transform="rotate(0 120 126)" opacity="1"/>
+<ellipse cx="120" cy="126" rx="16" ry="42" fill="url(#petal-f58)" stroke="#2563eb" stroke-width="1.5" transform="rotate(30 120 126)" opacity="1"/>
+<ellipse cx="120" cy="126" rx="16" ry="42" fill="url(#petal-f58)" stroke="#2563eb" stroke-width="1.5" transform="rotate(60 120 126)" opacity="1"/>
+<ellipse cx="120" cy="142" rx="12" ry="28" fill="#e0f2fe" stroke="none" stroke-width="0" transform="rotate(-45 120 142)" opacity="0.85"/>
+<ellipse cx="120" cy="142" rx="12" ry="28" fill="#e0f2fe" stroke="none" stroke-width="0" transform="rotate(-15 120 142)" opacity="0.85"/>
+<ellipse cx="120" cy="142" rx="12" ry="28" fill="#e0f2fe" stroke="none" stroke-width="0" transform="rotate(15 120 142)" opacity="0.85"/>
+<ellipse cx="120" cy="142" rx="12" ry="28" fill="#e0f2fe" stroke="none" stroke-width="0" transform="rotate(45 120 142)" opacity="0.85"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Croatia">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="56.666666666666664" fill="#ff0000"/>
+    <rect x="8" y="74.66666666666666" width="224" height="56.666666666666664" fill="#ffffff"/>
+    <rect x="8" y="131.33333333333331" width="224" height="56.666666666666686" fill="#171796"/>
+    <rect x="109" y="78" width="22" height="28" fill="#ff0000"/>
+    <rect x="98" y="78" width="11" height="14" fill="#ffffff"/>
+    <rect x="120" y="78" width="11" height="14" fill="#ffffff"/>
+    <rect x="98" y="92" width="11" height="14" fill="#ff0000"/>
+    <rect x="120" y="92" width="11" height="14" fill="#ff0000"/>
+  </g>
+</svg>

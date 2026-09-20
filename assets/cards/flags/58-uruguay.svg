@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Uruguay">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18.0" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="36.888888888888886" width="224" height="18.88888888888889" fill="#5eb6e4"/>
+    <rect x="8" y="55.77777777777778" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="74.66666666666667" width="224" height="18.88888888888889" fill="#5eb6e4"/>
+    <rect x="8" y="93.55555555555556" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="112.44444444444444" width="224" height="18.88888888888889" fill="#5eb6e4"/>
+    <rect x="8" y="131.33333333333334" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="150.22222222222223" width="224" height="18.88888888888889" fill="#5eb6e4"/>
+    <rect x="8" y="169.11111111111111" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="18" width="74" height="74" fill="#ffffff"/>
+    <polygon points="45.0,39.0 47.1,47.3 53.0,41.1 50.7,49.3 58.9,47.0 52.7,52.9 61.0,55.0 52.7,57.1 58.9,63.0 50.7,60.7 53.0,68.9 47.1,62.7 45.0,71.0 42.9,62.7 37.0,68.9 39.3,60.7 31.1,63.0 37.3,57.1 29.0,55.0 37.3,52.9 31.1,47.0 39.3,49.3 37.0,41.1 42.9,47.3" fill="#fcd116"/>
+    <circle cx="45" cy="55" r="8" fill="#fcd116"/>
+  </g>
+</svg>

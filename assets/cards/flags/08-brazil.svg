@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Brazil">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#009b3a"/>
+    <polygon points="120,38 198,103 120,168 42,103" fill="#ffdf00"/>
+    <circle cx="120" cy="103" r="28" fill="#002776"/>
+    <path d="M89 101 Q120 85 151 101" fill="none" stroke="#ffffff" stroke-width="6"/>
+  </g>
+</svg>

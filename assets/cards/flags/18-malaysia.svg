@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Malaysia">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18.0" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="30.142857142857142" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="42.285714285714285" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="54.42857142857143" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="66.57142857142857" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="78.71428571428571" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="90.85714285714286" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="103.0" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="115.14285714285714" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="127.28571428571428" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="139.42857142857142" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="151.57142857142856" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="163.71428571428572" width="224" height="12.142857142857142" fill="#cc0001"/>
+    <rect x="8" y="175.85714285714286" width="224" height="12.142857142857142" fill="#ffffff"/>
+    <rect x="8" y="18" width="98" height="86" fill="#010066"/>
+    <circle cx="50" cy="61" r="19" fill="#ffcc00"/>
+    <circle cx="56" cy="61" r="16" fill="#010066"/>
+    <polygon points="72.0,51.0 72.9,56.9 76.3,52.0 74.6,57.7 79.8,54.8 75.8,59.2 81.7,58.8 76.2,61.0 81.7,63.2 75.8,62.8 79.8,67.2 74.6,64.3 76.3,70.0 72.9,65.1 72.0,71.0 71.1,65.1 67.7,70.0 69.4,64.3 64.2,67.2 68.2,62.8 62.3,63.2 67.8,61.0 62.3,58.8 68.2,59.2 64.2,54.8 69.4,57.7 67.7,52.0 71.1,56.9" fill="#ffcc00"/>
+  </g>
+</svg>

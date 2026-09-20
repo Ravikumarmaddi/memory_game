@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Turkey">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#e30a17"/>
+    <circle cx="98" cy="103" r="34" fill="#ffffff"/>
+    <circle cx="108" cy="103" r="28" fill="#e30a17"/>
+    <polygon points="136.0,91.0 138.9,99.0 147.4,99.3 140.8,104.5 143.1,112.7 136.0,108.0 128.9,112.7 131.2,104.5 124.6,99.3 133.1,99.0" fill="#ffffff"/>
+  </g>
+</svg>

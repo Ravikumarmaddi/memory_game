@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "file": "01-apple.svg"
+  },
+  {
+    "id": 2,
+    "name": "Green Apple",
+    "file": "02-green-apple.svg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "file": "03-banana.svg"
+  },
+  {
+    "id": 4,
+    "name": "Orange",
+    "file": "04-orange.svg"
+  },
+  {
+    "id": 5,
+    "name": "Lemon",
+    "file": "05-lemon.svg"
+  },
+  {
+    "id": 6,
+    "name": "Watermelon",
+    "file": "06-watermelon.svg"
+  },
+  {
+    "id": 7,
+    "name": "Grapes",
+    "file": "07-grapes.svg"
+  },
+  {
+    "id": 8,
+    "name": "Strawberry",
+    "file": "08-strawberry.svg"
+  },
+  {
+    "id": 9,
+    "name": "Blueberry",
+    "file": "09-blueberry.svg"
+  },
+  {
+    "id": 10,
+    "name": "Cherry",
+    "file": "10-cherry.svg"
+  },
+  {
+    "id": 11,
+    "name": "Peach",
+    "file": "11-peach.svg"
+  },
+  {
+    "id": 12,
+    "name": "Pear",
+    "file": "12-pear.svg"
+  },
+  {
+    "id": 13,
+    "name": "Pineapple",
+    "file": "13-pineapple.svg"
+  },
+  {
+    "id": 14,
+    "name": "Mango",
+    "file": "14-mango.svg"
+  },
+  {
+    "id": 15,
+    "name": "Kiwi",
+    "file": "15-kiwi.svg"
+  },
+  {
+    "id": 16,
+    "name": "Coconut",
+    "file": "16-coconut.svg"
+  },
+  {
+    "id": 17,
+    "name": "Melon",
+    "file": "17-melon.svg"
+  },
+  {
+    "id": 18,
+    "name": "Avocado",
+    "file": "18-avocado.svg"
+  },
+  {
+    "id": 19,
+    "name": "Tomato",
+    "file": "19-tomato.svg"
+  },
+  {
+    "id": 20,
+    "name": "Olive",
+    "file": "20-olive.svg"
+  },
+  {
+    "id": 21,
+    "name": "Pomegranate",
+    "file": "21-pomegranate.svg"
+  },
+  {
+    "id": 22,
+    "name": "Papaya",
+    "file": "22-papaya.svg"
+  },
+  {
+    "id": 23,
+    "name": "Guava",
+    "file": "23-guava.svg"
+  },
+  {
+    "id": 24,
+    "name": "Dragon Fruit",
+    "file": "24-dragon-fruit.svg"
+  },
+  {
+    "id": 25,
+    "name": "Passion Fruit",
+    "file": "25-passion-fruit.svg"
+  },
+  {
+    "id": 26,
+    "name": "Lychee",
+    "file": "26-lychee.svg"
+  },
+  {
+    "id": 27,
+    "name": "Rambutan",
+    "file": "27-rambutan.svg"
+  },
+  {
+    "id": 28,
+    "name": "Jackfruit",
+    "file": "28-jackfruit.svg"
+  },
+  {
+    "id": 29,
+    "name": "Durian",
+    "file": "29-durian.svg"
+  },
+  {
+    "id": 30,
+    "name": "Fig",
+    "file": "30-fig.svg"
+  },
+  {
+    "id": 31,
+    "name": "Date",
+    "file": "31-date.svg"
+  },
+  {
+    "id": 32,
+    "name": "Apricot",
+    "file": "32-apricot.svg"
+  },
+  {
+    "id": 33,
+    "name": "Plum",
+    "file": "33-plum.svg"
+  },
+  {
+    "id": 34,
+    "name": "Nectarine",
+    "file": "34-nectarine.svg"
+  },
+  {
+    "id": 35,
+    "name": "Cantaloupe",
+    "file": "35-cantaloupe.svg"
+  },
+  {
+    "id": 36,
+    "name": "Honeydew",
+    "file": "36-honeydew.svg"
+  },
+  {
+    "id": 37,
+    "name": "Cranberry",
+    "file": "37-cranberry.svg"
+  },
+  {
+    "id": 38,
+    "name": "Raspberry",
+    "file": "38-raspberry.svg"
+  },
+  {
+    "id": 39,
+    "name": "Blackberry",
+    "file": "39-blackberry.svg"
+  },
+  {
+    "id": 40,
+    "name": "Gooseberry",
+    "file": "40-gooseberry.svg"
+  },
+  {
+    "id": 41,
+    "name": "Tangerine",
+    "file": "41-tangerine.svg"
+  },
+  {
+    "id": 42,
+    "name": "Mandarin",
+    "file": "42-mandarin.svg"
+  },
+  {
+    "id": 43,
+    "name": "Clementine",
+    "file": "43-clementine.svg"
+  },
+  {
+    "id": 44,
+    "name": "Grapefruit",
+    "file": "44-grapefruit.svg"
+  },
+  {
+    "id": 45,
+    "name": "Lime",
+    "file": "45-lime.svg"
+  },
+  {
+    "id": 46,
+    "name": "Pomelo",
+    "file": "46-pomelo.svg"
+  },
+  {
+    "id": 47,
+    "name": "Star Fruit",
+    "file": "47-star-fruit.svg"
+  },
+  {
+    "id": 48,
+    "name": "Persimmon",
+    "file": "48-persimmon.svg"
+  },
+  {
+    "id": 49,
+    "name": "Mulberry",
+    "file": "49-mulberry.svg"
+  },
+  {
+    "id": 50,
+    "name": "Boysenberry",
+    "file": "50-boysenberry.svg"
+  },
+  {
+    "id": 51,
+    "name": "Elderberry",
+    "file": "51-elderberry.svg"
+  },
+  {
+    "id": 52,
+    "name": "Currant",
+    "file": "52-currant.svg"
+  },
+  {
+    "id": 53,
+    "name": "Sapodilla",
+    "file": "53-sapodilla.svg"
+  },
+  {
+    "id": 54,
+    "name": "Custard Apple",
+    "file": "54-custard-apple.svg"
+  },
+  {
+    "id": 55,
+    "name": "Breadfruit",
+    "file": "55-breadfruit.svg"
+  },
+  {
+    "id": 56,
+    "name": "Longan",
+    "file": "56-longan.svg"
+  },
+  {
+    "id": 57,
+    "name": "Tamarind",
+    "file": "57-tamarind.svg"
+  },
+  {
+    "id": 58,
+    "name": "Quince",
+    "file": "58-quince.svg"
+  },
+  {
+    "id": 59,
+    "name": "Kumquat",
+    "file": "59-kumquat.svg"
+  },
+  {
+    "id": 60,
+    "name": "Plantain",
+    "file": "60-plantain.svg"
+  },
+  {
+    "id": 61,
+    "name": "Açaí",
+    "file": "61-acai.svg"
+  },
+  {
+    "id": 62,
+    "name": "Soursop",
+    "file": "62-soursop.svg"
+  },
+  {
+    "id": 63,
+    "name": "Jujube",
+    "file": "63-jujube.svg"
+  },
+  {
+    "id": 64,
+    "name": "Mangosteen",
+    "file": "64-mangosteen.svg"
+  }
+]

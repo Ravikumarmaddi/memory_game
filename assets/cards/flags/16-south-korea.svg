@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="South Korea">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#ffffff"/>
+    <path d="M120 70 a28 28 0 1 1 0 56 a14 14 0 1 0 0 -28 a14 14 0 1 1 0 -28" fill="#cd2e3a"/>
+    <path d="M120 70 a28 28 0 1 0 0 56 a14 14 0 1 1 0 -28 a14 14 0 1 0 0 -28" fill="#0047a0"/>
+    <rect x="46" y="58" width="20" height="6" fill="#000"/>
+    <rect x="174" y="58" width="20" height="6" fill="#000"/>
+    <rect x="174" y="68" width="20" height="6" fill="#000"/>
+    <rect x="46" y="130" width="20" height="6" fill="#000"/>
+    <rect x="46" y="140" width="20" height="6" fill="#000"/>
+    <rect x="174" y="130" width="20" height="6" fill="#000"/>
+  </g>
+</svg>

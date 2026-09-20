@@ -1,0 +1,14 @@
+Here are the issues rewritten from a user-experience perspective:
+1. Images do not scale and remain centered correctly when zooming
+When users zoom the browser in or out, some card images no longer fit properly within their card containers. Images may appear cropped, stretched, misaligned, or off-center.
+User impact: Players may have difficulty recognizing images, especially at higher zoom levels or on smaller screens.
+Expected behavior: Every image should preserve its aspect ratio, remain centered, and fit completely within the card at all supported zoom levels and screen sizes.
+2. Some different pairs look almost identical
+Several images belonging to different pairs have nearly identical designs. In some cases, the only distinguishing feature is a very small dot or a minor color difference.
+User impact: Players may reasonably believe that two different cards form a matching pair. This makes the game feel misleading rather than challenging, and it creates accessibility problems for users with reduced vision or color-vision deficiencies.
+Expected behavior: Each pair should be clearly distinguishable through shape, subject, pattern, or another prominent visual feature—not only through a subtle color variation.
+3. Animal cards contain repeated cats and dogs with only minor facial differences
+The animal theme includes multiple cat and dog faces representing different pairs. Because only the faces are shown and the differences between breeds are subtle, the cards are difficult to distinguish.
+User impact: Players must identify small facial or breed differences instead of recognizing clearly different animals. This increases confusion and makes the animal theme disproportionately difficult.
+Expected behavior: Each animal should appear in only one matching pair. Different pairs should use clearly different animal types—for example, one dog pair, one cat pair, one elephant pair, one lion pair, and so on. Full-body illustrations or more distinctive compositions would also improve recognition.
+Overall UX concern: The game’s challenge should come from remembering card positions, not from deciphering ambiguous or poorly scaled artwork.

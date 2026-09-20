@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Tulip">
+    
+    <defs>
+      <radialGradient id="petal-f2" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#ead7ff"/>
+        <stop offset="70%" stop-color="#9b5de5"/>
+        <stop offset="100%" stop-color="#7b2cbf"/>
+      </radialGradient>
+      <radialGradient id="center-f2" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M120 142 C120 170 120 188 120 212" fill="none" stroke="#2f8f46" stroke-width="6" stroke-linecap="round" opacity="1"/>
+<path d="M 97 170 C 74.5 157.5, 57.0 180.0, 87.0 200.0 C 114.5 185.0, 119.5 157.5, 97 170 Z" fill="url(#leaf-f2)" transform="rotate(-35 97 170)"/>
+<path d="M 144 174 C 123.3 162.5, 107.2 183.2, 134.8 201.6 C 160.1 187.8, 164.7 162.5, 144 174 Z" fill="url(#leaf-f2)" transform="rotate(25 144 174)"/>
+<path d="M120 56 C152 74 164 98 156 136 C138 126 130 124 120 132 C110 124 102 126 84 136 C76 98 88 74 120 56 Z" fill="url(#petal-f2)" stroke="#7b2cbf" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<path d="M102 88 C106 108 112 122 120 134 C128 122 134 108 138 88 Z" fill="#ead7ff" stroke="none" stroke-width="0" stroke-linecap="round" opacity="0.9"/>
+</svg>

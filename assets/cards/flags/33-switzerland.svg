@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Switzerland">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#ff0000"/>
+    <rect x="104" y="58" width="32" height="90" fill="#ffffff"/>
+    <rect x="75" y="87" width="90" height="32" fill="#ffffff"/>
+  </g>
+</svg>

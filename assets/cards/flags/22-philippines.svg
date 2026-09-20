@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Philippines">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="85" fill="#0038a8"/>
+    <rect x="8" y="103" width="224" height="85" fill="#ce1126"/>
+    <polygon points="8,18 8,188 102,103" fill="#ffffff"/>
+    <circle cx="42" cy="103" r="12" fill="#fcd116"/>
+    <polygon points="27.0,55.0 28.6,59.7 33.7,59.8 29.7,62.9 31.1,67.7 27.0,64.8 22.9,67.7 24.3,62.9 20.3,59.8 25.4,59.7" fill="#fcd116"/>
+    <polygon points="27.0,137.0 28.6,141.7 33.7,141.8 29.7,144.9 31.1,149.7 27.0,146.8 22.9,149.7 24.3,144.9 20.3,141.8 25.4,141.7" fill="#fcd116"/>
+    <polygon points="78.0,96.0 79.6,100.7 84.7,100.8 80.7,103.9 82.1,108.7 78.0,105.8 73.9,108.7 75.3,103.9 71.3,100.8 76.4,100.7" fill="#fcd116"/>
+  </g>
+</svg>

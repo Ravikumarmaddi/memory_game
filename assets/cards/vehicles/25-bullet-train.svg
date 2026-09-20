@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Bullet Train">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <polygon points="120,28 206,120 120,212 34,120" fill="#94d82d" opacity="0.20"/><circle cx="62" cy="62" r="18" fill="#4dabf7" opacity="0.70"/><circle cx="182" cy="176" r="14" fill="#ff922b" opacity="0.70"/>
+  <text x="120" y="176" text-anchor="middle" font-size="174" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🚄</text>
+</svg>

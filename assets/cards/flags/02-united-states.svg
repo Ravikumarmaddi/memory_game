@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="United States">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18.0" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="31.076923076923077" width="224" height="13.076923076923077" fill="#ffffff"/>
+    <rect x="8" y="44.15384615384615" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="57.230769230769226" width="224" height="13.076923076923077" fill="#ffffff"/>
+    <rect x="8" y="70.3076923076923" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="83.38461538461539" width="224" height="13.076923076923077" fill="#ffffff"/>
+    <rect x="8" y="96.46153846153845" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="109.53846153846153" width="224" height="13.076923076923077" fill="#ffffff"/>
+    <rect x="8" y="122.61538461538461" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="135.69230769230768" width="224" height="13.076923076923077" fill="#ffffff"/>
+    <rect x="8" y="148.76923076923077" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="161.84615384615384" width="224" height="13.076923076923077" fill="#ffffff"/>
+    <rect x="8" y="174.9230769230769" width="224" height="13.076923076923077" fill="#b22234"/>
+    <rect x="8" y="18" width="96" height="73" fill="#3c3b6e"/>
+    <circle cx="20" cy="28" r="2.5" fill="#ffffff"/>
+    <circle cx="34" cy="28" r="2.5" fill="#ffffff"/>
+    <circle cx="48" cy="28" r="2.5" fill="#ffffff"/>
+    <circle cx="62" cy="28" r="2.5" fill="#ffffff"/>
+    <circle cx="76" cy="28" r="2.5" fill="#ffffff"/>
+    <circle cx="90" cy="28" r="2.5" fill="#ffffff"/>
+    <circle cx="27" cy="41" r="2.5" fill="#ffffff"/>
+    <circle cx="41" cy="41" r="2.5" fill="#ffffff"/>
+    <circle cx="55" cy="41" r="2.5" fill="#ffffff"/>
+    <circle cx="69" cy="41" r="2.5" fill="#ffffff"/>
+    <circle cx="83" cy="41" r="2.5" fill="#ffffff"/>
+    <circle cx="97" cy="41" r="2.5" fill="#ffffff"/>
+    <circle cx="20" cy="54" r="2.5" fill="#ffffff"/>
+    <circle cx="34" cy="54" r="2.5" fill="#ffffff"/>
+    <circle cx="48" cy="54" r="2.5" fill="#ffffff"/>
+    <circle cx="62" cy="54" r="2.5" fill="#ffffff"/>
+    <circle cx="76" cy="54" r="2.5" fill="#ffffff"/>
+    <circle cx="90" cy="54" r="2.5" fill="#ffffff"/>
+    <circle cx="27" cy="67" r="2.5" fill="#ffffff"/>
+    <circle cx="41" cy="67" r="2.5" fill="#ffffff"/>
+    <circle cx="55" cy="67" r="2.5" fill="#ffffff"/>
+    <circle cx="69" cy="67" r="2.5" fill="#ffffff"/>
+    <circle cx="83" cy="67" r="2.5" fill="#ffffff"/>
+    <circle cx="97" cy="67" r="2.5" fill="#ffffff"/>
+    <circle cx="20" cy="80" r="2.5" fill="#ffffff"/>
+    <circle cx="34" cy="80" r="2.5" fill="#ffffff"/>
+    <circle cx="48" cy="80" r="2.5" fill="#ffffff"/>
+    <circle cx="62" cy="80" r="2.5" fill="#ffffff"/>
+    <circle cx="76" cy="80" r="2.5" fill="#ffffff"/>
+    <circle cx="90" cy="80" r="2.5" fill="#ffffff"/>
+  </g>
+</svg>

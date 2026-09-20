@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Cherry Blossom">
+    
+    <defs>
+      <radialGradient id="petal-f4" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#ffe1f2"/>
+        <stop offset="70%" stop-color="#f15bb5"/>
+        <stop offset="100%" stop-color="#d63384"/>
+      </radialGradient>
+      <radialGradient id="center-f4" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f4" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M58 178 C88 160 104 132 126 112 C146 94 164 90 188 80" fill="none" stroke="#6d4c41" stroke-width="5" stroke-linecap="round" opacity="1"/>
+<path d="M130 120 C142 118 154 122 166 132" fill="none" stroke="#7b5e57" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<path d="M104 136 C92 132 80 132 68 138" fill="none" stroke="#7b5e57" stroke-width="3" stroke-linecap="round" opacity="1"/>
+<ellipse cx="86.0" cy="138.0" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(90 86.0 138.0)" opacity="1"/>
+<ellipse cx="76.32623792124926" cy="151.31479122813215" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(162 76.32623792124926 151.31479122813215)" opacity="1"/>
+<ellipse cx="60.67376207875074" cy="146.22899353209462" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(234 60.67376207875074 146.22899353209462)" opacity="1"/>
+<ellipse cx="60.673762078750734" cy="129.77100646790538" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(306 60.673762078750734 129.77100646790538)" opacity="1"/>
+<ellipse cx="76.32623792124926" cy="124.68520877186785" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(378 76.32623792124926 124.68520877186785)" opacity="1"/>
+<circle cx="72" cy="138" r="4" fill="#f2c94c" stroke="none" stroke-width="0" opacity="1"/>
+<ellipse cx="116.0" cy="132.0" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(90 116.0 132.0)" opacity="1"/>
+<ellipse cx="106.32623792124926" cy="145.31479122813215" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(162 106.32623792124926 145.31479122813215)" opacity="1"/>
+<ellipse cx="90.67376207875074" cy="140.22899353209462" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(234 90.67376207875074 140.22899353209462)" opacity="1"/>
+<ellipse cx="90.67376207875074" cy="123.77100646790538" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(306 90.67376207875074 123.77100646790538)" opacity="1"/>
+<ellipse cx="106.32623792124926" cy="118.68520877186785" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(378 106.32623792124926 118.68520877186785)" opacity="1"/>
+<circle cx="102" cy="132" r="4" fill="#f2c94c" stroke="none" stroke-width="0" opacity="1"/>
+<ellipse cx="142.0" cy="114.0" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(90 142.0 114.0)" opacity="1"/>
+<ellipse cx="132.32623792124926" cy="127.31479122813215" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(162 132.32623792124926 127.31479122813215)" opacity="1"/>
+<ellipse cx="116.67376207875074" cy="122.22899353209462" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(234 116.67376207875074 122.22899353209462)" opacity="1"/>
+<ellipse cx="116.67376207875074" cy="105.77100646790538" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(306 116.67376207875074 105.77100646790538)" opacity="1"/>
+<ellipse cx="132.32623792124926" cy="100.68520877186785" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(378 132.32623792124926 100.68520877186785)" opacity="1"/>
+<circle cx="128" cy="114" r="4" fill="#f2c94c" stroke="none" stroke-width="0" opacity="1"/>
+<ellipse cx="168.0" cy="126.0" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(90 168.0 126.0)" opacity="1"/>
+<ellipse cx="158.32623792124926" cy="139.31479122813215" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(162 158.32623792124926 139.31479122813215)" opacity="1"/>
+<ellipse cx="142.67376207875074" cy="134.22899353209462" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(234 142.67376207875074 134.22899353209462)" opacity="1"/>
+<ellipse cx="142.67376207875074" cy="117.77100646790538" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(306 142.67376207875074 117.77100646790538)" opacity="1"/>
+<ellipse cx="158.32623792124926" cy="112.68520877186785" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(378 158.32623792124926 112.68520877186785)" opacity="1"/>
+<circle cx="154" cy="126" r="4" fill="#f2c94c" stroke="none" stroke-width="0" opacity="1"/>
+<ellipse cx="190.0" cy="84.0" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(90 190.0 84.0)" opacity="1"/>
+<ellipse cx="180.32623792124926" cy="97.31479122813215" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(162 180.32623792124926 97.31479122813215)" opacity="1"/>
+<ellipse cx="164.67376207875074" cy="92.22899353209462" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(234 164.67376207875074 92.22899353209462)" opacity="1"/>
+<ellipse cx="164.67376207875074" cy="75.77100646790538" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(306 164.67376207875074 75.77100646790538)" opacity="1"/>
+<ellipse cx="180.32623792124926" cy="70.68520877186785" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(378 180.32623792124926 70.68520877186785)" opacity="1"/>
+<circle cx="176" cy="84" r="4" fill="#f2c94c" stroke="none" stroke-width="0" opacity="1"/>
+<ellipse cx="158.0" cy="96.0" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(90 158.0 96.0)" opacity="1"/>
+<ellipse cx="148.32623792124926" cy="109.31479122813215" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(162 148.32623792124926 109.31479122813215)" opacity="1"/>
+<ellipse cx="132.67376207875074" cy="104.22899353209462" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(234 132.67376207875074 104.22899353209462)" opacity="1"/>
+<ellipse cx="132.67376207875074" cy="87.77100646790538" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(306 132.67376207875074 87.77100646790538)" opacity="1"/>
+<ellipse cx="148.32623792124926" cy="82.68520877186785" rx="8" ry="18" fill="url(#petal-f4)" stroke="#d63384" stroke-width="1.2" transform="rotate(378 148.32623792124926 82.68520877186785)" opacity="1"/>
+<circle cx="144" cy="96" r="4" fill="#f2c94c" stroke="none" stroke-width="0" opacity="1"/>
+</svg>

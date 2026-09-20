@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Pakistan">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#01411c"/>
+    <rect x="8" y="18" width="44" height="170" fill="#ffffff"/>
+    <circle cx="134" cy="103" r="32" fill="#ffffff"/>
+    <circle cx="144" cy="97" r="28" fill="#01411c"/>
+    <polygon points="160.0,74.0 162.5,80.6 169.5,80.9 164.0,85.3 165.9,92.1 160.0,88.2 154.1,92.1 156.0,85.3 150.5,80.9 157.5,80.6" fill="#ffffff"/>
+  </g>
+</svg>

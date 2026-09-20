@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Argentina">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="56.666666666666664" fill="#74acdf"/>
+    <rect x="8" y="74.66666666666666" width="224" height="56.666666666666664" fill="#ffffff"/>
+    <rect x="8" y="131.33333333333331" width="224" height="56.666666666666686" fill="#74acdf"/>
+    <polygon points="120.0,83.0 122.6,93.3 130.0,85.7 127.1,95.9 137.3,93.0 129.7,100.4 140.0,103.0 129.7,105.6 137.3,113.0 127.1,110.1 130.0,120.3 122.6,112.7 120.0,123.0 117.4,112.7 110.0,120.3 112.9,110.1 102.7,113.0 110.3,105.6 100.0,103.0 110.3,100.4 102.7,93.0 112.9,95.9 110.0,85.7 117.4,93.3" fill="#f6b40e"/>
+    <circle cx="120" cy="103" r="10" fill="#f6b40e"/>
+  </g>
+</svg>

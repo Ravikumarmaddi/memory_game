@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Offline-ready memory matching game for 1, 2, or 3 players.">
+  <title>Memory Match Arena</title>
+  <link rel="stylesheet" href="assets/vendor/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light app-navbar sticky-top">
+    <div class="container-fluid px-lg-4">
+      <a class="navbar-brand d-flex align-items-center gap-2" href="#" data-nav-section="setupSection">
+        <span class="brand-badge" aria-hidden="true"></span><span class="fw-bold">Memory Match Arena</span>
+      </a>
+      <div class="d-flex gap-2">
+        <button class="btn btn-outline-primary btn-sm active" data-nav-section="setupSection">Setup</button>
+        <button class="btn btn-outline-primary btn-sm" data-nav-section="gameSection">Game</button>
+        <button class="btn btn-outline-primary btn-sm" data-nav-section="statsSection">Scores & History</button>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container-fluid px-lg-4 py-2 py-lg-3">
+    <section id="setupSection">
+      <div class="row g-4 align-items-stretch">
+        <div class="col-xl-4">
+          <div class="card hero-card h-100 p-4">
+            <span class="badge badge-soft rounded-pill align-self-start mb-3">Local · No installation · Bootstrap</span>
+            <h1 class="setup-title display-6">Train your memory.<br>Challenge your friends.</h1>
+            <p class="text-muted">Choose exactly one card variety for each game. The selected set is never mixed with another variety.</p>
+            <div class="mt-auto pt-4">
+              <button id="quickPlayBtn" class="btn btn-primary btn-lg w-100">Play with Last Setup</button>
+              <small class="d-block text-muted text-center mt-2">The last game configuration is remembered automatically.</small>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-5">
+          <div class="card panel-card p-4 h-100">
+            <h2 class="h4 fw-bold mb-3">Game Setup</h2>
+            <div class="row g-3">
+              <div class="col-md-6"><label for="pairSize" class="form-label">Pair Size</label><select id="pairSize" class="form-select"></select></div>
+              <div class="col-md-6"><label for="theme" class="form-label">Card Image Variety</label><select id="theme" class="form-select"></select><div class="form-text">Only this selected variety is used in the game.</div></div>
+              <div class="col-md-6"><label for="playerCount" class="form-label">Players</label><select id="playerCount" class="form-select"></select></div>
+              <div class="col-md-6"><label for="previewSeconds" class="form-label">Preview Cards</label><select id="previewSeconds" class="form-select"></select></div>
+              <div class="col-md-6"><label for="mismatchDelayMs" class="form-label">Mismatch Flip Speed</label><select id="mismatchDelayMs" class="form-select"><option value="500">Fast</option><option value="800">Normal</option><option value="900">Comfortable</option><option value="1200">Slow</option><option value="1600">Very Slow</option></select></div>
+              <div class="col-md-6 d-flex align-items-end"><div class="form-check form-switch mb-2"><input class="form-check-input" type="checkbox" id="showPositionNumbers"><label class="form-check-label" for="showPositionNumbers">Show card position numbers</label></div></div>
+              <div class="col-12"><hr class="my-1"></div>
+              <div id="playerGroup1" class="col-md-6"><label class="form-label" for="playerName1">Player 1 Name</label><input id="playerName1" class="form-control" maxlength="24"></div>
+              <div id="playerColorGroup1" class="col-md-6"><label class="form-label" for="playerColor1">Player 1 Color</label><select id="playerColor1" class="form-select"></select></div>
+              <div id="playerGroup2" class="col-md-6"><label class="form-label" for="playerName2">Player 2 Name</label><input id="playerName2" class="form-control" maxlength="24"></div>
+              <div id="playerColorGroup2" class="col-md-6"><label class="form-label" for="playerColor2">Player 2 Color</label><select id="playerColor2" class="form-select"></select></div>
+              <div id="playerGroup3" class="col-md-6"><label class="form-label" for="playerName3">Player 3 Name</label><input id="playerName3" class="form-control" maxlength="24"></div>
+              <div id="playerColorGroup3" class="col-md-6"><label class="form-label" for="playerColor3">Player 3 Color</label><select id="playerColor3" class="form-select"></select></div>
+            </div>
+            <div class="d-flex gap-2 mt-4">
+              <button id="startGameBtn" class="btn btn-primary flex-grow-1">Start New Game</button>
+              <button id="resetSetupBtn" class="btn btn-outline-secondary">Defaults</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3">
+          <div class="card panel-card p-4 h-100">
+            <h2 class="h5 fw-bold">Current Setup</h2>
+            <div class="setup-summary-item"><span>Board</span><strong id="summaryBoard"></strong></div>
+            <div class="setup-summary-item"><span>Theme</span><strong id="summaryTheme"></strong></div>
+            <div class="setup-summary-item"><span>Players</span><strong id="summaryPlayers"></strong></div>
+            <div class="setup-summary-item"><span>Preview</span><strong id="summaryPreview"></strong></div>
+            <div class="setup-summary-item"><span>Colors</span><strong id="summaryColors"></strong></div>
+            <div class="alert alert-info mt-3 mb-0 small"><strong>Stored locally:</strong> player top scores, top game score for each pair size, game history, and last configuration.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="gameSection" class="d-none game-section-tight">
+      <div class="row g-3 align-items-start game-layout-row">
+        <div class="col-12 col-xl-3">
+          <aside class="card panel-card game-left-panel compact-panel p-3">
+            <div class="small-panel-block">
+              <div class="small-panel-title">Players &amp; Scores</div>
+              <div id="playerStatus" class="player-status player-status-vertical mb-2"></div>
+            </div>
+
+            <div class="small-panel-block">
+              <div class="small-panel-title">Current Game</div>
+              <div class="stats-grid stats-grid-compact game-essential-stats mb-2">
+                <div class="stat-card stat-card-compact"><strong id="statTime">00:00</strong><span>Time</span></div>
+                <div class="stat-card stat-card-compact"><strong id="statTurns">0</strong><span>Total Turns</span></div>
+              </div>
+            </div>
+
+            <div class="game-action-grid" aria-label="Game actions">
+              <button id="fullscreenBtn" class="game-action-btn game-action-fullscreen" type="button"><span class="game-action-icon" aria-hidden="true">⛶</span><span>Full Screen</span></button>
+              <button id="restartGameBtn" class="game-action-btn game-action-restart" type="button"><span class="game-action-icon" aria-hidden="true">↻</span><span>Restart</span></button>
+              <button id="newGameBtn" class="game-action-btn game-action-new" type="button"><span class="game-action-icon" aria-hidden="true">★</span><span>New Game · Last Setup</span></button>
+              <button id="backToSetupBtn" class="game-action-btn game-action-setup" type="button"><span class="game-action-icon" aria-hidden="true">⚙</span><span>Change Setup</span></button>
+            </div>
+
+            <div class="game-secondary-actions" aria-label="Score and history actions">
+              <button id="statsFromGameBtn" class="game-action-btn game-action-scores" type="button"><span class="game-action-icon" aria-hidden="true">🏆</span><span>Scores &amp; History</span></button>
+            </div>
+          </aside>
+        </div>
+
+        <div class="col-12 col-xl-9">
+          <div class="card panel-card p-2 p-lg-3 game-shell game-shell-main">
+            <div id="previewMask" class="preview-mask d-none"><div id="previewCountdown" class="preview-pill">Memorize!</div></div>
+            <div id="gameBoard" class="game-board" role="grid" aria-label="Memory card board"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="statsSection" class="d-none">
+      <div class="d-flex flex-wrap justify-content-between align-items-center gap-2 mb-4">
+        <div><h1 class="h3 fw-bold mb-1">Scores & Game History</h1><div class="text-muted">All data stays in this browser using LocalStorage.</div></div>
+        <button id="resetAllBtn" class="btn btn-outline-danger">Reset All Saved Data</button>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-lg-6"><div class="card panel-card p-3 h-100"><h2 class="h5 fw-bold">Person Top Scores</h2><div class="table-responsive"><table class="table table-hover align-middle mb-0"><thead><tr><th>Name</th><th>Top Score</th><th>Games</th><th>Wins</th></tr></thead><tbody id="playerScoreTableBody"></tbody></table></div></div></div>
+        <div class="col-lg-6"><div class="card panel-card p-3 h-100"><h2 class="h5 fw-bold">Complete Game Top Score by Pair Size</h2><div class="table-responsive"><table class="table table-hover align-middle mb-0"><thead><tr><th>Size</th><th>Top Score</th><th>Winner</th><th>Theme</th><th>Time</th></tr></thead><tbody id="sizeScoreTableBody"></tbody></table></div></div></div>
+        <div class="col-12"><div class="card panel-card p-3"><h2 class="h5 fw-bold">Games History</h2><div class="table-responsive"><table class="table table-striped table-hover align-middle mb-0"><thead><tr><th>Date</th><th>Pairs</th><th>Theme</th><th>Players</th><th>Winner</th><th>Moves</th><th>Misses</th><th>Accuracy</th><th>Time</th><th>Score</th></tr></thead><tbody id="historyTableBody"></tbody></table></div></div></div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal fade" id="resultModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered"><div class="modal-content border-0 shadow-lg"><div class="modal-header border-0"><h2 id="resultTitle" class="modal-title h4 fw-bold">Game Complete</h2><button type="button" class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body text-center" id="resultBody"></div><div class="modal-footer border-0"><button id="resultSetupBtn" class="btn btn-outline-secondary">Change Setup</button><button id="resultPlayAgainBtn" class="btn btn-primary">Play Again</button></div></div></div>
+  </div>
+
+  <script src="assets/vendor/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="js/namespace.js"></script>
+  <script src="config/game-config.runtime.js"></script>
+  <script src="assets/cards/flags/manifest.runtime.js"></script>
+  <script src="assets/cards/animals/manifest.runtime.js"></script>
+  <script src="assets/cards/fruits/manifest.runtime.js"></script>
+  <script src="assets/cards/flowers/manifest.runtime.js"></script>
+  <script src="assets/cards/vehicles/manifest.runtime.js"></script>
+  <script src="js/config-service.js"></script>
+  <script src="js/storage-service.js"></script>
+  <script src="js/game-engine.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

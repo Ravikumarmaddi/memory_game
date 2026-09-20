@@ -1,0 +1,7 @@
+HTML5
+JavaScript (ES6+)
+CSS3
+Bootstrap 5.1.1 (bundled locally)
+LocalStorage
+No backend
+No build tools

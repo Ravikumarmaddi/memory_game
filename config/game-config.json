@@ -1,0 +1,139 @@
+{
+  "app": {
+    "title": "Memory Match Arena",
+    "subtitle": "Train your memory. Match every pair.",
+    "version": "1.0.0"
+  },
+  "pairSizes": [
+    8,
+    16,
+    32,
+    64
+  ],
+  "playerCounts": [
+    {
+      "value": 1,
+      "label": "Single Player"
+    },
+    {
+      "value": 2,
+      "label": "Double Players"
+    },
+    {
+      "value": 3,
+      "label": "Triple Players"
+    }
+  ],
+  "themes": [
+    {
+      "id": "flags",
+      "label": "Country Flags",
+      "assetPath": "assets/cards/flags"
+    },
+    {
+      "id": "animals",
+      "label": "Animals",
+      "assetPath": "assets/cards/animals"
+    },
+    {
+      "id": "fruits",
+      "label": "Fruits",
+      "assetPath": "assets/cards/fruits"
+    },
+    {
+      "id": "flowers",
+      "label": "Flowers",
+      "assetPath": "assets/cards/flowers"
+    },
+    {
+      "id": "vehicles",
+      "label": "Vehicles",
+      "assetPath": "assets/cards/vehicles"
+    }
+  ],
+  "previewSeconds": [
+    0,
+    1,
+    2,
+    3,
+    5
+  ],
+  "mismatchDelayMs": [
+    500,
+    800,
+    1200,
+    1600
+  ],
+  "defaults": {
+    "pairSize": 8,
+    "playerCount": 1,
+    "theme": "animals",
+    "previewSeconds": 2,
+    "mismatchDelayMs": 900,
+    "showPositionNumbers": false,
+    "playerNames": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ],
+    "playerColors": [
+      "#3b82f6",
+      "#ec4899",
+      "#10b981"
+    ]
+  },
+  "scoring": {
+    "matchPoints": 100,
+    "streakBonusStep": 20,
+    "maxStreakBonus": 200,
+    "missPenalty": 15,
+    "completionBonusBase": 500,
+    "speedBonusMax": 1000
+  },
+  "storage": {
+    "namespace": "memoryMatchArena",
+    "historyLimit": 100
+  },
+  "playerColors": [
+    {
+      "value": "#ef4444",
+      "label": "Red"
+    },
+    {
+      "value": "#f97316",
+      "label": "Orange"
+    },
+    {
+      "value": "#f59e0b",
+      "label": "Amber"
+    },
+    {
+      "value": "#84cc16",
+      "label": "Lime"
+    },
+    {
+      "value": "#10b981",
+      "label": "Emerald"
+    },
+    {
+      "value": "#06b6d4",
+      "label": "Cyan"
+    },
+    {
+      "value": "#3b82f6",
+      "label": "Blue"
+    },
+    {
+      "value": "#8b5cf6",
+      "label": "Violet"
+    },
+    {
+      "value": "#ec4899",
+      "label": "Pink"
+    },
+    {
+      "value": "#a16207",
+      "label": "Brown"
+    }
+  ]
+}

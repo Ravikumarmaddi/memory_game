@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="India">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="56.666666666666664" fill="#ff9933"/>
+    <rect x="8" y="74.66666666666666" width="224" height="56.666666666666664" fill="#ffffff"/>
+    <rect x="8" y="131.33333333333331" width="224" height="56.666666666666686" fill="#138808"/>
+    <path d="M120 89 A14 14 0 1 1 119.9 89" fill="none" stroke="#000080" stroke-width="3"/>
+  </g>
+</svg>

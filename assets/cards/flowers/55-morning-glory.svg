@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Morning Glory">
+    
+    <defs>
+      <radialGradient id="petal-f54" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#ffe1f2"/>
+        <stop offset="70%" stop-color="#f15bb5"/>
+        <stop offset="100%" stop-color="#d63384"/>
+      </radialGradient>
+      <radialGradient id="center-f54" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f54" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M120 136 C120 164 120 188 120 212" fill="none" stroke="#2c8a53" stroke-width="5" stroke-linecap="round" opacity="1"/>
+<path d="M120 72 C160 80 172 112 168 136 C145 146 95 146 72 136 C68 112 80 80 120 72 Z" fill="url(#petal-f54)" stroke="#d63384" stroke-width="2" stroke-linecap="round" opacity="1"/>
+<circle cx="120" cy="120" r="16" fill="#ffffff" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="120" cy="120" r="8" fill="#f3d250" stroke="none" stroke-width="0" opacity="1"/>
+</svg>

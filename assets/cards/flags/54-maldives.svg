@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Maldives">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#d21034"/>
+    <rect x="56" y="58" width="128" height="90" fill="#007e3a"/>
+    <circle cx="112" cy="103" r="22" fill="#ffffff"/>
+    <circle cx="118" cy="103" r="18" fill="#007e3a"/>
+  </g>
+</svg>

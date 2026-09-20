@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Orchid">
+    
+    <defs>
+      <radialGradient id="petal-f11" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#ffe8a1"/>
+        <stop offset="70%" stop-color="#ffb703"/>
+        <stop offset="100%" stop-color="#fb8500"/>
+      </radialGradient>
+      <radialGradient id="center-f11" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f11" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M120 144 C120 168 120 188 120 212" fill="none" stroke="#3a7d44" stroke-width="5" stroke-linecap="round" opacity="1"/>
+<ellipse cx="120" cy="80" rx="19" ry="42" fill="url(#petal-f11)" stroke="#fb8500" stroke-width="1.5" transform="rotate(0 120 80)" opacity="1"/>
+<ellipse cx="90" cy="116" rx="22" ry="38" fill="url(#petal-f11)" stroke="#fb8500" stroke-width="1.5" transform="rotate(230 90 116)" opacity="1"/>
+<ellipse cx="150" cy="116" rx="22" ry="38" fill="url(#petal-f11)" stroke="#fb8500" stroke-width="1.5" transform="rotate(130 150 116)" opacity="1"/>
+<ellipse cx="100" cy="154" rx="16" ry="26" fill="url(#petal-f11)" stroke="#fb8500" stroke-width="1.5" transform="rotate(210 100 154)" opacity="1"/>
+<ellipse cx="140" cy="154" rx="16" ry="26" fill="url(#petal-f11)" stroke="#fb8500" stroke-width="1.5" transform="rotate(150 140 154)" opacity="1"/>
+<path d="M104 124 q16 16 32 0 q-2 24 -16 32 q-14 -8 -16 -32 z" fill="#8a5a00" stroke="none" stroke-width="0" stroke-linecap="round" opacity="1"/>
+<circle cx="120" cy="138" r="6" fill="#ffd166" stroke="none" stroke-width="0" opacity="1"/>
+</svg>

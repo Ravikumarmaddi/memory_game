@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Kenya">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="45" fill="#000000"/>
+    <rect x="8" y="63" width="224" height="10" fill="#ffffff"/>
+    <rect x="8" y="73" width="224" height="60" fill="#bb0000"/>
+    <rect x="8" y="133" width="224" height="10" fill="#ffffff"/>
+    <rect x="8" y="143" width="224" height="45" fill="#006600"/>
+    <path d="M120 62 q18 20 0 82 q-18 -20 0 -82 z" fill="#8d5b2a" stroke="#ffffff" stroke-width="2"/>
+  </g>
+</svg>

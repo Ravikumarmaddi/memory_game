@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Heather">
+    
+    <defs>
+      <radialGradient id="petal-f53" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#dff7ff"/>
+        <stop offset="70%" stop-color="#4cc9f0"/>
+        <stop offset="100%" stop-color="#4361ee"/>
+      </radialGradient>
+      <radialGradient id="center-f53" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f53" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M120 90 C118 138 118 176 120 212" fill="none" stroke="#2a8f57" stroke-width="5" stroke-linecap="round" opacity="1"/>
+<ellipse cx="128" cy="86" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 86)" opacity="1"/>
+<ellipse cx="112" cy="91" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 91)" opacity="1"/>
+<ellipse cx="128" cy="96" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 96)" opacity="1"/>
+<ellipse cx="112" cy="101" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 101)" opacity="1"/>
+<ellipse cx="128" cy="106" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 106)" opacity="1"/>
+<ellipse cx="112" cy="111" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 111)" opacity="1"/>
+<ellipse cx="128" cy="116" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 116)" opacity="1"/>
+<ellipse cx="112" cy="121" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 121)" opacity="1"/>
+<ellipse cx="128" cy="126" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 126)" opacity="1"/>
+<ellipse cx="112" cy="131" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 131)" opacity="1"/>
+<ellipse cx="128" cy="136" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 136)" opacity="1"/>
+<ellipse cx="112" cy="141" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 141)" opacity="1"/>
+<ellipse cx="128" cy="146" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 146)" opacity="1"/>
+<ellipse cx="112" cy="151" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 151)" opacity="1"/>
+<ellipse cx="128" cy="156" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 156)" opacity="1"/>
+<ellipse cx="112" cy="161" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 161)" opacity="1"/>
+<ellipse cx="128" cy="166" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(25 128 166)" opacity="1"/>
+<ellipse cx="112" cy="171" rx="8" ry="18" fill="url(#petal-f53)" stroke="#4361ee" stroke-width="1.0" transform="rotate(-25 112 171)" opacity="1"/>
+</svg>

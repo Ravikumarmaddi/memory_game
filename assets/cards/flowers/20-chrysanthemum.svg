@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Chrysanthemum">
+    
+    <defs>
+      <radialGradient id="petal-f19" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#f3e8ff"/>
+        <stop offset="70%" stop-color="#c084fc"/>
+        <stop offset="100%" stop-color="#9333ea"/>
+      </radialGradient>
+      <radialGradient id="center-f19" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f19" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M120 150 C120 170 120 188 120 212" fill="none" stroke="#2f8f55" stroke-width="5" stroke-linecap="round" opacity="1"/>
+<ellipse cx="133.58414016786395" cy="123.38690653839535" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(104.0 133.58414016786395 123.38690653839535)" opacity="1"/>
+<ellipse cx="131.25399604864106" cy="128.32751901451877" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(126.5 131.25399604864106 128.32751901451877)" opacity="1"/>
+<ellipse cx="127.21053304874076" cy="132.00034220982957" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(149.0 127.21053304874076 132.00034220982957)" opacity="1"/>
+<ellipse cx="122.06933175581455" cy="133.84622208706685" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(171.5 122.06933175581455 133.84622208706685)" opacity="1"/>
+<ellipse cx="116.61309346160465" cy="133.58414016786395" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(194.0 116.61309346160465 133.58414016786395)" opacity="1"/>
+<ellipse cx="111.67248098548123" cy="131.25399604864106" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(216.5 111.67248098548123 131.25399604864106)" opacity="1"/>
+<ellipse cx="107.99965779017043" cy="127.21053304874076" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(239.0 107.99965779017043 127.21053304874076)" opacity="1"/>
+<ellipse cx="106.15377791293317" cy="122.06933175581455" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(261.5 106.15377791293317 122.06933175581455)" opacity="1"/>
+<ellipse cx="106.41585983213605" cy="116.61309346160465" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(284.0 106.41585983213605 116.61309346160465)" opacity="1"/>
+<ellipse cx="108.74600395135896" cy="111.67248098548123" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(306.5 108.74600395135896 111.67248098548123)" opacity="1"/>
+<ellipse cx="112.78946695125924" cy="107.99965779017043" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(329.0 112.78946695125924 107.99965779017043)" opacity="1"/>
+<ellipse cx="117.93066824418545" cy="106.15377791293317" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(351.5 117.93066824418545 106.15377791293317)" opacity="1"/>
+<ellipse cx="123.38690653839535" cy="106.41585983213605" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(374.0 123.38690653839535 106.41585983213605)" opacity="1"/>
+<ellipse cx="128.32751901451877" cy="108.74600395135896" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(396.5 128.32751901451877 108.74600395135896)" opacity="1"/>
+<ellipse cx="132.00034220982957" cy="112.78946695125924" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(419.0 132.00034220982957 112.78946695125924)" opacity="1"/>
+<ellipse cx="133.84622208706685" cy="117.93066824418545" rx="6" ry="24" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(441.5 133.84622208706685 117.93066824418545)" opacity="1"/>
+<ellipse cx="145.98076211353316" cy="135.0" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(120.0 145.98076211353316 135.0)" opacity="1"/>
+<ellipse cx="139.28362829059617" cy="142.98133329356935" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(140.0 139.28362829059617 142.98133329356935)" opacity="1"/>
+<ellipse cx="130.26060429977008" cy="148.19077862357724" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(160.0 130.26060429977008 148.19077862357724)" opacity="1"/>
+<ellipse cx="120.0" cy="150.0" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(180.0 120.0 150.0)" opacity="1"/>
+<ellipse cx="109.73939570022993" cy="148.19077862357724" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(200.0 109.73939570022993 148.19077862357724)" opacity="1"/>
+<ellipse cx="100.71637170940382" cy="142.98133329356935" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(220.0 100.71637170940382 142.98133329356935)" opacity="1"/>
+<ellipse cx="94.01923788646684" cy="135.0" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(240.0 94.01923788646684 135.0)" opacity="1"/>
+<ellipse cx="90.45576740963375" cy="125.20944533000791" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(260.0 90.45576740963375 125.20944533000791)" opacity="1"/>
+<ellipse cx="90.45576740963375" cy="114.79055466999209" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(280.0 90.45576740963375 114.79055466999209)" opacity="1"/>
+<ellipse cx="94.01923788646684" cy="105.0" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(300.0 94.01923788646684 105.0)" opacity="1"/>
+<ellipse cx="100.71637170940382" cy="97.01866670643066" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(320.0 100.71637170940382 97.01866670643066)" opacity="1"/>
+<ellipse cx="109.73939570022995" cy="91.80922137642276" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(340.0 109.73939570022995 91.80922137642276)" opacity="1"/>
+<ellipse cx="120.0" cy="90.0" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(360.0 120.0 90.0)" opacity="1"/>
+<ellipse cx="130.26060429977008" cy="91.80922137642276" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(380.0 130.26060429977008 91.80922137642276)" opacity="1"/>
+<ellipse cx="139.28362829059617" cy="97.01866670643065" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(400.0 139.28362829059617 97.01866670643065)" opacity="1"/>
+<ellipse cx="145.98076211353316" cy="104.99999999999999" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(420.0 145.98076211353316 104.99999999999999)" opacity="1"/>
+<ellipse cx="149.54423259036625" cy="114.79055466999209" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(440.0 149.54423259036625 114.79055466999209)" opacity="1"/>
+<ellipse cx="149.54423259036625" cy="125.2094453300079" rx="8" ry="26" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(460.0 149.54423259036625 125.2094453300079)" opacity="1"/>
+<ellipse cx="151.95428504111388" cy="153.08963081557795" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(136.0 151.95428504111388 153.08963081557795)" opacity="1"/>
+<ellipse cx="140.16507275229756" cy="161.34452612976168" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(154.0 140.16507275229756 161.34452612976168)" opacity="1"/>
+<ellipse cx="126.401962644163" cy="165.55233116211224" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(172.0 126.401962644163 165.55233116211224)" opacity="1"/>
+<ellipse cx="112.01218382732121" cy="165.30115663856157" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(190.0 112.01218382732121 165.30115663856157)" opacity="1"/>
+<ellipse cx="98.40430811184902" cy="160.61558927151063" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(208.0 98.40430811184902 160.61558927151063)" opacity="1"/>
+<ellipse cx="86.91036918442205" cy="151.95428504111388" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(226.0 86.91036918442205 151.95428504111388)" opacity="1"/>
+<ellipse cx="78.65547387023832" cy="140.16507275229756" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(244.0 78.65547387023832 140.16507275229756)" opacity="1"/>
+<ellipse cx="74.44766883788776" cy="126.401962644163" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(262.0 74.44766883788776 126.401962644163)" opacity="1"/>
+<ellipse cx="74.69884336143843" cy="112.0121838273212" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(280.0 74.69884336143843 112.0121838273212)" opacity="1"/>
+<ellipse cx="79.38441072848937" cy="98.40430811184902" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(298.0 79.38441072848937 98.40430811184902)" opacity="1"/>
+<ellipse cx="88.04571495888612" cy="86.91036918442205" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(316.0 88.04571495888612 86.91036918442205)" opacity="1"/>
+<ellipse cx="99.83492724770242" cy="78.65547387023832" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(334.0 99.83492724770242 78.65547387023832)" opacity="1"/>
+<ellipse cx="113.59803735583696" cy="74.44766883788776" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(352.0 113.59803735583696 74.44766883788776)" opacity="1"/>
+<ellipse cx="127.98781617267878" cy="74.69884336143843" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(370.0 127.98781617267878 74.69884336143843)" opacity="1"/>
+<ellipse cx="141.59569188815095" cy="79.38441072848936" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(388.0 141.59569188815095 79.38441072848936)" opacity="1"/>
+<ellipse cx="153.08963081557795" cy="88.04571495888611" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(406.0 153.08963081557795 88.04571495888611)" opacity="1"/>
+<ellipse cx="161.34452612976168" cy="99.83492724770242" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(424.0 161.34452612976168 99.83492724770242)" opacity="1"/>
+<ellipse cx="165.55233116211224" cy="113.59803735583696" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(442.0 165.55233116211224 113.59803735583696)" opacity="1"/>
+<ellipse cx="165.30115663856157" cy="127.98781617267878" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(460.0 165.30115663856157 127.98781617267878)" opacity="1"/>
+<ellipse cx="160.61558927151066" cy="141.59569188815095" rx="8" ry="28" fill="url(#petal-f19)" stroke="#9333ea" stroke-width="1" transform="rotate(478.0 160.61558927151066 141.59569188815095)" opacity="1"/>
+<circle cx="120" cy="120" r="10" fill="#ffd166" stroke="none" stroke-width="0" opacity="1"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="United Kingdom">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#0a2f7f"/>
+    <path d="M8 30 L8 18 L35 18 L232 168 L232 188 L204 188 L8 39 Z" fill="#fff"/>
+    <path d="M232 30 L232 18 L205 18 L8 168 L8 188 L36 188 L232 39 Z" fill="#fff"/>
+    <path d="M8 26 L8 18 L22 18 L232 159 L232 173 L218 173 L8 32 Z" fill="#c8102e"/>
+    <path d="M232 26 L232 18 L218 18 L8 159 L8 173 L22 173 L232 32 Z" fill="#c8102e"/>
+    <rect x="8" y="82" width="224" height="42" fill="#fff"/>
+    <rect x="100" y="18" width="40" height="170" fill="#fff"/>
+    <rect x="8" y="90" width="224" height="26" fill="#c8102e"/>
+    <rect x="108" y="18" width="24" height="170" fill="#c8102e"/>
+  </g>
+</svg>

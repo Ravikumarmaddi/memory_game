@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "file": "01-lion.svg"
+  },
+  {
+    "id": 2,
+    "name": "Tiger",
+    "file": "02-tiger.svg"
+  },
+  {
+    "id": 3,
+    "name": "Elephant",
+    "file": "03-elephant.svg"
+  },
+  {
+    "id": 4,
+    "name": "Monkey",
+    "file": "04-monkey.svg"
+  },
+  {
+    "id": 5,
+    "name": "Dog",
+    "file": "01-dog-photo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cat",
+    "file": "02-cat-photo.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Horse",
+    "file": "07-horse.svg"
+  },
+  {
+    "id": 8,
+    "name": "Cow",
+    "file": "08-cow.svg"
+  },
+  {
+    "id": 9,
+    "name": "Pig",
+    "file": "09-pig.svg"
+  },
+  {
+    "id": 10,
+    "name": "Rabbit",
+    "file": "10-rabbit.svg"
+  },
+  {
+    "id": 11,
+    "name": "Fox",
+    "file": "11-fox.svg"
+  },
+  {
+    "id": 12,
+    "name": "Bear",
+    "file": "12-bear.svg"
+  },
+  {
+    "id": 13,
+    "name": "Panda",
+    "file": "13-panda.svg"
+  },
+  {
+    "id": 14,
+    "name": "Koala",
+    "file": "14-koala.svg"
+  },
+  {
+    "id": 15,
+    "name": "Zebra",
+    "file": "15-zebra.svg"
+  },
+  {
+    "id": 16,
+    "name": "Giraffe",
+    "file": "16-giraffe.svg"
+  },
+  {
+    "id": 17,
+    "name": "Deer",
+    "file": "17-deer.svg"
+  },
+  {
+    "id": 18,
+    "name": "Camel",
+    "file": "18-camel.svg"
+  },
+  {
+    "id": 19,
+    "name": "Kangaroo",
+    "file": "19-kangaroo.svg"
+  },
+  {
+    "id": 20,
+    "name": "Buffalo",
+    "file": "20-buffalo.svg"
+  },
+  {
+    "id": 21,
+    "name": "Goat",
+    "file": "21-goat.svg"
+  },
+  {
+    "id": 22,
+    "name": "Sheep",
+    "file": "22-sheep.svg"
+  },
+  {
+    "id": 23,
+    "name": "Llama",
+    "file": "23-llama.svg"
+  },
+  {
+    "id": 24,
+    "name": "Donkey",
+    "file": "24-donkey.svg"
+  },
+  {
+    "id": 25,
+    "name": "Wolf",
+    "file": "25-wolf.svg"
+  },
+  {
+    "id": 26,
+    "name": "Leopard",
+    "file": "26-leopard.svg"
+  },
+  {
+    "id": 27,
+    "name": "Rhinoceros",
+    "file": "27-rhinoceros.svg"
+  },
+  {
+    "id": 28,
+    "name": "Hippopotamus",
+    "file": "28-hippopotamus.svg"
+  },
+  {
+    "id": 29,
+    "name": "Gorilla",
+    "file": "29-gorilla.svg"
+  },
+  {
+    "id": 30,
+    "name": "Orangutan",
+    "file": "30-orangutan.svg"
+  },
+  {
+    "id": 31,
+    "name": "Sloth",
+    "file": "31-sloth.svg"
+  },
+  {
+    "id": 32,
+    "name": "Otter",
+    "file": "32-otter.svg"
+  },
+  {
+    "id": 33,
+    "name": "Beaver",
+    "file": "33-beaver.svg"
+  },
+  {
+    "id": 34,
+    "name": "Squirrel",
+    "file": "34-squirrel.svg"
+  },
+  {
+    "id": 35,
+    "name": "Hedgehog",
+    "file": "35-hedgehog.svg"
+  },
+  {
+    "id": 36,
+    "name": "Bat",
+    "file": "36-bat.svg"
+  },
+  {
+    "id": 37,
+    "name": "Mouse",
+    "file": "37-mouse.svg"
+  },
+  {
+    "id": 38,
+    "name": "Rat",
+    "file": "38-rat.svg"
+  },
+  {
+    "id": 39,
+    "name": "Hamster",
+    "file": "39-hamster.svg"
+  },
+  {
+    "id": 40,
+    "name": "Skunk",
+    "file": "40-skunk.svg"
+  },
+  {
+    "id": 41,
+    "name": "Badger",
+    "file": "41-badger.svg"
+  },
+  {
+    "id": 42,
+    "name": "Raccoon",
+    "file": "42-raccoon.svg"
+  },
+  {
+    "id": 43,
+    "name": "Polar Bear",
+    "file": "43-polar-bear.svg"
+  },
+  {
+    "id": 44,
+    "name": "Penguin",
+    "file": "44-penguin.svg"
+  },
+  {
+    "id": 45,
+    "name": "Eagle",
+    "file": "45-eagle.svg"
+  },
+  {
+    "id": 46,
+    "name": "Owl",
+    "file": "46-owl.svg"
+  },
+  {
+    "id": 47,
+    "name": "Parrot",
+    "file": "47-parrot.svg"
+  },
+  {
+    "id": 48,
+    "name": "Flamingo",
+    "file": "48-flamingo.svg"
+  },
+  {
+    "id": 49,
+    "name": "Peacock",
+    "file": "49-peacock.svg"
+  },
+  {
+    "id": 50,
+    "name": "Swan",
+    "file": "50-swan.svg"
+  },
+  {
+    "id": 51,
+    "name": "Duck",
+    "file": "51-duck.svg"
+  },
+  {
+    "id": 52,
+    "name": "Chicken",
+    "file": "52-chicken.svg"
+  },
+  {
+    "id": 53,
+    "name": "Turkey",
+    "file": "53-turkey.svg"
+  },
+  {
+    "id": 54,
+    "name": "Frog",
+    "file": "54-frog.svg"
+  },
+  {
+    "id": 55,
+    "name": "Turtle",
+    "file": "55-turtle.svg"
+  },
+  {
+    "id": 56,
+    "name": "Crocodile",
+    "file": "56-crocodile.svg"
+  },
+  {
+    "id": 57,
+    "name": "Snake",
+    "file": "57-snake.svg"
+  },
+  {
+    "id": 58,
+    "name": "Lizard",
+    "file": "58-lizard.svg"
+  },
+  {
+    "id": 59,
+    "name": "Dolphin",
+    "file": "59-dolphin.svg"
+  },
+  {
+    "id": 60,
+    "name": "Whale",
+    "file": "60-whale.svg"
+  },
+  {
+    "id": 61,
+    "name": "Shark",
+    "file": "61-shark.svg"
+  },
+  {
+    "id": 62,
+    "name": "Octopus",
+    "file": "62-octopus.svg"
+  },
+  {
+    "id": 63,
+    "name": "Crab",
+    "file": "63-crab.svg"
+  },
+  {
+    "id": 64,
+    "name": "Lobster",
+    "file": "64-lobster.svg"
+  }
+]

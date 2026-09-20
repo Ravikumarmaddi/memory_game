@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Greece">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18.0" width="224" height="18.88888888888889" fill="#0d5eaf"/>
+    <rect x="8" y="36.888888888888886" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="55.77777777777778" width="224" height="18.88888888888889" fill="#0d5eaf"/>
+    <rect x="8" y="74.66666666666667" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="93.55555555555556" width="224" height="18.88888888888889" fill="#0d5eaf"/>
+    <rect x="8" y="112.44444444444444" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="131.33333333333334" width="224" height="18.88888888888889" fill="#0d5eaf"/>
+    <rect x="8" y="150.22222222222223" width="224" height="18.88888888888889" fill="#ffffff"/>
+    <rect x="8" y="169.11111111111111" width="224" height="18.88888888888889" fill="#0d5eaf"/>
+    <rect x="8" y="18" width="90" height="90" fill="#0d5eaf"/>
+    <rect x="43" y="18" width="20" height="90" fill="#ffffff"/>
+    <rect x="8" y="53" width="90" height="20" fill="#ffffff"/>
+  </g>
+</svg>

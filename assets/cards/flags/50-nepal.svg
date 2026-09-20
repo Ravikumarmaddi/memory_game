@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Nepal">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <path d="M54 30 L150 30 L104 86 L150 86 L54 176 Z" fill="#dc143c" stroke="#003893" stroke-width="8"/>
+    <circle cx="94" cy="68" r="14" fill="#ffffff"/>
+    <circle cx="96" cy="118" r="16" fill="#ffffff"/>
+    <polygon points="96.0,108.0 97.3,113.2 101.0,109.3 99.5,114.5 104.7,113.0 100.8,116.7 106.0,118.0 100.8,119.3 104.7,123.0 99.5,121.5 101.0,126.7 97.3,122.8 96.0,128.0 94.7,122.8 91.0,126.7 92.5,121.5 87.3,123.0 91.2,119.3 86.0,118.0 91.2,116.7 87.3,113.0 92.5,114.5 91.0,109.3 94.7,113.2" fill="#ffffff"/>
+  </g>
+</svg>

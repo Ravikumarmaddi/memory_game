@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Airplane">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <polygon points="48,48 188,48 212,120 144,192 58,170 34,106" fill="#51cf66" opacity="0.20"/><polygon points="66,70 172,70 186,120 136,170 72,154 54,108" fill="#22b8cf" opacity="0.16"/>
+  <text x="120" y="176" text-anchor="middle" font-size="174" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">✈️</text>
+</svg>

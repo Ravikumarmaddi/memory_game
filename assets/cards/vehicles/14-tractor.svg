@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Tractor">
+  <rect width="240" height="240" fill="#ffffff"/>
+  <rect x="28" y="74" width="184" height="30" rx="15" fill="#f06595" opacity="0.22"/><rect x="28" y="118" width="184" height="30" rx="15" fill="#b197fc" opacity="0.20"/><circle cx="184" cy="52" r="18" fill="#94d82d" opacity="0.76"/>
+  <text x="120" y="176" text-anchor="middle" font-size="174" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif">🚜</text>
+</svg>

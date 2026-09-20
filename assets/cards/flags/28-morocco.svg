@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Morocco">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#c1272d"/>
+    <polygon points="120.0,79.0 125.6,95.2 142.8,95.6 129.1,106.0 134.1,122.4 120.0,112.6 105.9,122.4 110.9,106.0 97.2,95.6 114.4,95.2" fill="none" stroke="#006233" stroke-width="5"/>
+  </g>
+</svg>

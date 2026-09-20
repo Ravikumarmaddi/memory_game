@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Lotus">
+    
+    <defs>
+      <radialGradient id="petal-f5" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#ffe3e3"/>
+        <stop offset="70%" stop-color="#f28482"/>
+        <stop offset="100%" stop-color="#e76f51"/>
+      </radialGradient>
+      <radialGradient id="center-f5" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f5" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<circle cx="120" cy="188" r="46" fill="#77c96b" stroke="none" stroke-width="0" opacity="0.95"/>
+<path d="M120 188 L166 188 Q152 200 140 205 Z" fill="#ffffff" stroke="none" stroke-width="0" stroke-linecap="round" opacity="0.9"/>
+<ellipse cx="76" cy="122" rx="16" ry="48" fill="url(#petal-f5)" stroke="#e76f51" stroke-width="1.6" transform="rotate(-17.6 76 122)" opacity="1"/>
+<ellipse cx="96" cy="122" rx="16" ry="52" fill="url(#petal-f5)" stroke="#e76f51" stroke-width="1.6" transform="rotate(-9.600000000000001 96 122)" opacity="1"/>
+<ellipse cx="120" cy="122" rx="16" ry="58" fill="url(#petal-f5)" stroke="#e76f51" stroke-width="1.6" transform="rotate(0.0 120 122)" opacity="1"/>
+<ellipse cx="144" cy="122" rx="16" ry="52" fill="url(#petal-f5)" stroke="#e76f51" stroke-width="1.6" transform="rotate(9.600000000000001 144 122)" opacity="1"/>
+<ellipse cx="164" cy="122" rx="16" ry="48" fill="url(#petal-f5)" stroke="#e76f51" stroke-width="1.6" transform="rotate(17.6 164 122)" opacity="1"/>
+<ellipse cx="84" cy="140" rx="12" ry="32" fill="#ffe3e3" stroke="none" stroke-width="0" transform="rotate(-14.4 84 140)" opacity="0.85"/>
+<ellipse cx="102" cy="140" rx="12" ry="35" fill="#ffe3e3" stroke="none" stroke-width="0" transform="rotate(-7.2 102 140)" opacity="0.85"/>
+<ellipse cx="120" cy="140" rx="12" ry="38" fill="#ffe3e3" stroke="none" stroke-width="0" transform="rotate(0.0 120 140)" opacity="0.85"/>
+<ellipse cx="138" cy="140" rx="12" ry="35" fill="#ffe3e3" stroke="none" stroke-width="0" transform="rotate(7.2 138 140)" opacity="0.85"/>
+<ellipse cx="156" cy="140" rx="12" ry="32" fill="#ffe3e3" stroke="none" stroke-width="0" transform="rotate(14.4 156 140)" opacity="0.85"/>
+</svg>

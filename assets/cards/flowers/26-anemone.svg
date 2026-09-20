@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Anemone">
+    
+    <defs>
+      <radialGradient id="petal-f25" cx="50%" cy="42%" r="70%">
+        <stop offset="0%" stop-color="#ffe3e3"/>
+        <stop offset="70%" stop-color="#f28482"/>
+        <stop offset="100%" stop-color="#e76f51"/>
+      </radialGradient>
+      <radialGradient id="center-f25" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#fff4b8"/>
+        <stop offset="65%" stop-color="#f2cf4a"/>
+        <stop offset="100%" stop-color="#9c6b14"/>
+      </radialGradient>
+      <linearGradient id="leaf-f25" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a7e76a"/>
+        <stop offset="100%" stop-color="#3b8d34"/>
+      </linearGradient>
+    </defs>
+    <rect width="240" height="240" fill="#ffffff"/>
+    <ellipse cx="120" cy="198" rx="54" ry="10" fill="#dfe7ef" opacity="0.45"/>
+<path d="M120 146 C120 170 120 190 120 212" fill="none" stroke="#347c4a" stroke-width="5" stroke-linecap="round" opacity="1"/>
+<ellipse cx="156.0" cy="118.0" rx="18" ry="42" fill="url(#petal-f25)" stroke="#e76f51" stroke-width="1.6" transform="rotate(90 156.0 118.0)" opacity="1"/>
+<ellipse cx="138.0" cy="149.1769145362398" rx="18" ry="42" fill="url(#petal-f25)" stroke="#e76f51" stroke-width="1.6" transform="rotate(150 138.0 149.1769145362398)" opacity="1"/>
+<ellipse cx="102.0" cy="149.1769145362398" rx="18" ry="42" fill="url(#petal-f25)" stroke="#e76f51" stroke-width="1.6" transform="rotate(210 102.0 149.1769145362398)" opacity="1"/>
+<ellipse cx="84.0" cy="118.0" rx="18" ry="42" fill="url(#petal-f25)" stroke="#e76f51" stroke-width="1.6" transform="rotate(270 84.0 118.0)" opacity="1"/>
+<ellipse cx="101.99999999999999" cy="86.82308546376022" rx="18" ry="42" fill="url(#petal-f25)" stroke="#e76f51" stroke-width="1.6" transform="rotate(330 101.99999999999999 86.82308546376022)" opacity="1"/>
+<ellipse cx="138.0" cy="86.82308546376021" rx="18" ry="42" fill="url(#petal-f25)" stroke="#e76f51" stroke-width="1.6" transform="rotate(390 138.0 86.82308546376021)" opacity="1"/>
+<circle cx="120" cy="118" r="22" fill="#202124" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="120" cy="118" r="10" fill="#7dd3fc" stroke="none" stroke-width="0" opacity="1"/>
+</svg>

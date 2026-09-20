@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Vietnam">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="170" fill="#da251d"/>
+    <polygon points="120.0,75.0 126.6,93.9 146.6,94.3 130.7,106.5 136.5,125.7 120.0,114.2 103.5,125.7 109.3,106.5 93.4,94.3 113.4,93.9" fill="#ffff00"/>
+  </g>
+</svg>

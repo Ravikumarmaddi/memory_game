@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="South Africa">
+  <defs>
+    <clipPath id="clip"><rect x="8" y="18" width="224" height="170" rx="26" ry="26"/></clipPath>
+  </defs>
+  <rect width="240" height="240" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <rect x="8" y="18" width="224" height="85" fill="#de3831"/>
+    <rect x="8" y="103" width="224" height="85" fill="#002395"/>
+    <polygon points="8,18 78,18 130,72 232,72 232,42 118,42 64,96 8,96" fill="#ffffff"/>
+    <polygon points="8,188 78,188 130,134 232,134 232,164 118,164 64,110 8,110" fill="#ffffff"/>
+    <polygon points="8,34 74,34 124,84 232,84 232,62 132,62 74,120 8,120" fill="#ffb612"/>
+    <polygon points="8,172 74,172 124,122 232,122 232,144 132,144 74,86 8,86" fill="#ffb612"/>
+    <polygon points="8,18 56,60 56,146 8,188" fill="#000000"/>
+    <polygon points="8,42 72,42 124,94 232,94 232,112 124,112 72,164 8,164 56,103 56,103" fill="#007a4d"/>
+  </g>
+</svg>
