@@ -116,5 +116,3 @@ No ads, analytics, login, or cloud sync are used. All resources needed for offli
 When opened through `file://`, the app uses the runtime JavaScript configuration and manifests. When served over HTTP, it attempts to load the JSON files and falls back to the bundled runtime versions if needed. Keep each JSON file and its runtime JavaScript mirror synchronized when editing settings or picture lists.
 
 Mismatch-speed options are currently defined in `index.html`; update that select when changing the available speeds. The default mismatch speed is defined in the configuration.
-#   m e m o r y _ g a m e  
- 
